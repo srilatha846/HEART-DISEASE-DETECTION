@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+heart_disease_model.pkl
+.DS_Store
+.idea/
